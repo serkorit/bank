@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Bank\Bank\bin\Debug\Bank.exe
+c:\users\user\documents\visual studio 2013\Projects\Bank\Bank\bin\Debug\Bank.pdb
+c:\users\user\documents\visual studio 2013\Projects\Bank\Bank\bin\Debug\BankLogic.dll
+c:\users\user\documents\visual studio 2013\Projects\Bank\Bank\bin\Debug\BankLogic.pdb
+c:\users\user\documents\visual studio 2013\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\Bank\Bank\obj\Debug\Bank.exe
+c:\users\user\documents\visual studio 2013\Projects\Bank\Bank\obj\Debug\Bank.pdb
